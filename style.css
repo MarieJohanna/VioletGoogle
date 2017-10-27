@@ -1,0 +1,62 @@
+body {
+  background-image: url('sky.jpg');
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+.main {
+  margin: 0;
+  padding: 40px;
+}
+
+.logo {
+  font-style: normal;
+  color: #760DFF;
+  font-family: fantasy;
+  font-weight: bold;
+}
+
+.logo h1 {
+  font-size: 150px;
+  margin: auto;
+}
+
+.logo h2 {
+  font-size: 10px;
+  margin: 0px 10px;
+}
+
+.input input {
+  position: relative;
+  color: #760DFF;
+  width: 25%;
+  top: 6px;
+  padding: 10px;
+}
+
+.input button {
+  position: relative;
+  color: #760DFF;
+  font-weight: bold;
+  width: 10%;
+  top: 6px;
+  padding: 10px;
+}
+
+.tag {
+  padding: 0;
+  font-family: fantasy;
+  color: #760DFF;
+  display: inline-block;
+  font-size: 10px;
+  letter-spacing: 2px;
+  margin: 5px;
+  text-transform: uppercase;
+
+}
+.google img {
+  position: relative;
+  width: 7%;
+  top: 6px;
+}
